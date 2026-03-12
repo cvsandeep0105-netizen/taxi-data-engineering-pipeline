@@ -35,7 +35,16 @@ sql/
 visuals/
 - charts and visualizations generated during analysis
 
+## Sample Visualizations
 
+### Fare vs Distance
+![Fare vs Distance](visuals/fare_vs_distance.png)
+
+### Trip Duration Distribution
+![Trip Duration](visuals/trip_duration_distribution.png)
+
+### Average Fare by Borough
+![Average Fare](visuals/average_fare_by_borough.png)
 
 ## Key Insights
 
