@@ -35,7 +35,7 @@ sql/
 visuals/
 - charts and visualizations generated during analysis
 
-## Sample Visualizations
+##  Data Visualizations
 
 ### Fare vs Distance
 ![Fare vs Distance](visuals/fare_vs_distance.png)
